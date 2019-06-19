@@ -10,7 +10,7 @@ public class Main {
 		System.out.println(service.proc(1, 2));
 		System.out.println(service.proc(1, 2));
 		System.out.println(service.proc(1, 2));
-		
+		 
 	}
 
 }
